@@ -31,7 +31,7 @@
 </style>
 </head>
 <body>
-  <!-- Izmenjen komentar drugi put! -->
+  <!-- Novi komntar! -->
   <div id="preloader"></div>
 
   <?php include 'header.php'; ?>
